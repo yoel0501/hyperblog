@@ -4,3 +4,5 @@ Un blog de Yoel para el curso de git y github de platzi
 >niñito
 
 **En este curso vemos todo** Ando cansado por eso no hago uno lindo
+**creado por platzi team
+
